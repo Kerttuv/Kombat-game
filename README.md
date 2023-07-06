@@ -1,0 +1,2 @@
+# Magos
+ little combat game
