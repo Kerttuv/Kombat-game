@@ -1,2 +1,2 @@
-# Magos
+# Kombat game
  little combat game
